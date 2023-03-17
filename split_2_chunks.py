@@ -27,4 +27,4 @@ def split_text_files(input_folder, output_folder, pages_per_chunk):
 
 
 # example usage
-split_text_files('opinions_txt', 'chunks_txt', 3)
+split_text_files('coverted', 'chunks_txt', 3)
