@@ -1,0 +1,11 @@
+Convert the following text documents into a JSON-LD formatted knowledge graph. Each node should be an idea. Each node should have several properties such as the reasoning for including the idea, and other relevant information.
+
+
+
+
+<<CHUNK>>
+
+
+
+
+JSON-LD Knowledge Graph
